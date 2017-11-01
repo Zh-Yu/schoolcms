@@ -3347,9 +3347,6 @@ fieldset[disabled] .am-checkbox-inline {
   margin-bottom: 0;
   border-width: 1px 0 0;
 }
-.am-with-topbar-fixed-top {
-  padding-top: 51px;
-}
 .am-with-topbar-fixed-bottom {
   padding-bottom: 51px;
 }

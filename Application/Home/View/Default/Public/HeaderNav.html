@@ -1,5 +1,12 @@
 <header class="am-topbar am-topbar-inverse am-topbar-fixed-top">
-<div>testheaderlogo</div>
+<div id="logoself">
+	<img src="http://schoolcms.tool.tangzongchao.com/Public/Upload/Home/image/home_logo.png" alt="SchoolCMS学校管理系统 - Powered by SchoolCMS" id="home_site_logo" style="
+	    height: 120px;
+	    width: 120px;
+	    margin-bottom: 5px;
+	    margin-top: 5px;
+	    margin-left: 8%;">
+</div>
 	<div class="nav-header" <if condition="!empty($max_width_style)">style="{{$max_width_style}}"</if>>
 		<!-- logo start -->
 		<h1 class="am-topbar-brand">
@@ -51,3 +58,13 @@
 		</div>
 	</div>
 </header>
+
+
+<style type="text/css">
+.logoself{
+	background-color: white
+}
+.am-topbar-fixed-top, .am-topbar-fixed-bottom{
+	position: relative !important;
+}
+</style>

@@ -3018,6 +3018,7 @@ fieldset[disabled] .am-checkbox-inline {
 }
 .am-nav-pills > li {
   float: left;
+  margin-right: 80px;
 }
 .am-nav-pills > li + li {
   margin-left: 5px;

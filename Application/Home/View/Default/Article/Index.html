@@ -33,7 +33,7 @@
 						</if>
 					</case>
 					<case value="122|123|124|236">
-						<php>list($t1, $t2, $t3) = str_split($v['value'])[3];</php>
+						<php>list($t1, $t2, $t3) = str_split($v['value']);</php>
 						<ul data-am-widget="gallery" class="am-gallery am-avg-sm-{{$t1}} am-avg-md-{{$t2}} am-avg-lg-{{$t3}} am-gallery-overlay small-banner am-no-layout m-b-5 layout-100-{{$v.value}}" data-am-gallery="{}">
 							<if condition="!empty($v['item'])">
 								<foreach name="v.item" item="vs">

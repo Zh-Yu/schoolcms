@@ -2969,7 +2969,7 @@ fieldset[disabled] .am-checkbox-inline {
   position: relative;
   display: block;
 }
-.am-nav > li + li {
+.am-nav > li{
   margin-top: 5px;
 }
 .am-nav > li + .am-nav-header {

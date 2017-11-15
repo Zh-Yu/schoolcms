@@ -3016,13 +3016,14 @@ fieldset[disabled] .am-checkbox-inline {
   -webkit-box-shadow: 0 1px 0 #fff;
           box-shadow: 0 1px 0 #fff;
 }
-.am-nav-pills > li {
+/*.am-nav-pills > li {
   float: left;
   margin-right: 60px;
-}
-.am-nav-pills > li + li {
-  margin-left: 5px;
+}*/
+.am-nav-pills > li{
+  margin: 0 5%;
   margin-top: 0;
+  float: left;
 }
 .am-nav-tabs {
   border-bottom: 1px solid #ddd;
@@ -3195,9 +3196,9 @@ fieldset[disabled] .am-checkbox-inline {
   }
 }
 @media only screen and (min-width:641px) {
-  .am-topbar-nav {
+  /*.am-topbar-nav {
     float: left;
-  }
+  }*/
   .am-topbar-nav > li > a {
     position: relative;
     line-height: 50px;

@@ -11,7 +11,7 @@ return array(
 	// 站点信息
 	'common_site_name'					=>	'SchoolCMS',
 	'common_site_vice_name'				=>	'教务管理系统',
-	'common_site_title'					=>	'SchoolCMS后台管理系统',
+	'common_site_title'					=>	'天津市电源学会后台管理系统',
 
 	// 应用信息
 	'common_application_name'			=>	'SchoolCMS',

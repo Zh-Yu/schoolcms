@@ -86,7 +86,7 @@ input:hover, select:hover, textarea:hover, .chosen-choices:hover, .chosen-single
 /* 文章列表 */
 .am-list { margin-bottom: 0rem; }
 .am-list-news-hd, .my-link legend { background: #eee; padding: 0.5rem; color: #666; }
-.am-list-news-hd{border-top: 3px solid #000}
+.am-list-news-hd{border-top: 3px solid #0e90d2}
 
 /* 友情链接 */
 .my-link { margin: 10px; }
